@@ -1,1 +1,2 @@
 New document 1
+add new line
